@@ -32,3 +32,4 @@ The notebook analyzes job postings to extract insights such as:
 - Explore trends in job postings over time.
 
 Data source: https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search
+All data are mainly used for project purposes. The data might not be true.
