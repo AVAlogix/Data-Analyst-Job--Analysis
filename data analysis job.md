@@ -31,3 +31,4 @@ The notebook analyzes job postings to extract insights such as:
 - Perform sentiment analysis on job descriptions.
 - Explore trends in job postings over time.
 
+Data source: https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search
