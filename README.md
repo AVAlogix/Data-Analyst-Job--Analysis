@@ -1,6 +1,6 @@
 # **Report on Data Analysis of Job Postings**
 
-Analysis:https://github.com/AVAlogix/Data-Analyst-Job--Analysis/blob/main/data%20analysis%20Job.ipynb
+Analysis: https://github.com/AVAlogix/Data-Analyst-Job--Analysis/blob/main/data%20analysis%20Job.ipynb
 
 ## **Objective**
 The notebook analyzes job postings to extract insights such as:
